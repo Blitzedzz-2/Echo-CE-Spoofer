@@ -104,6 +104,8 @@ int main() {
     else {
         std::wcout << L"Cheat Engine process not found." << std::endl;
     }
+    std::wcout << L"Made by blitzedzz." << std::endl;
 
+    system("pause >nul");
     return 0;
 }
