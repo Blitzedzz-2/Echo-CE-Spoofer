@@ -1,0 +1,7 @@
+﻿  EchoCESpoofer.cpp
+C:\Users\Blitzedzz\source\repos\EchoCESpoofer\EchoCESpoofer\EchoCESpoofer.cpp(14,59): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Blitzedzz\source\repos\EchoCESpoofer\EchoCESpoofer\EchoCESpoofer.cpp(14,59): warning C4267:         with
+C:\Users\Blitzedzz\source\repos\EchoCESpoofer\EchoCESpoofer\EchoCESpoofer.cpp(14,59): warning C4267:         [
+C:\Users\Blitzedzz\source\repos\EchoCESpoofer\EchoCESpoofer\EchoCESpoofer.cpp(14,59): warning C4267:             _Ty=int
+C:\Users\Blitzedzz\source\repos\EchoCESpoofer\EchoCESpoofer\EchoCESpoofer.cpp(14,59): warning C4267:         ]
+  EchoCESpoofer.vcxproj -> C:\Users\Blitzedzz\source\repos\EchoCESpoofer\x64\Debug\EchoCESpoofer.exe
