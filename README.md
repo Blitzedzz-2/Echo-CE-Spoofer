@@ -15,6 +15,6 @@
 
 ## Installation
 
-### Step 1: Download the (Latest Release)[https://github.com/Blitzedzz-2/Echo-CE-Spoofer/releases/tag/Latest]
-### Step 2: Open it (While cheat engine is opened)
+### Step 1: Download the [Latest Release](https://github.com/Blitzedzz-2/Echo-CE-Spoofer/releases/tag/Latest)
+### Step 2: Open it (While Cheat Engine is open)
 ### Step 3: Enjoy!
